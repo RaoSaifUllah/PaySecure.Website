@@ -66,7 +66,7 @@ export function Developers() {
                 An API that feels <span className="text-gradient">instantly familiar.</span>
               </>
             }
-            body="If you've built with Stripe, you already know PaySecure. Same object shapes, same patterns, with Pakistan's payment methods built in."
+            body="Clean, predictable objects, clear errors and great docs, with Pakistan's payment methods built in from day one."
           />
           <ul className="mt-8 grid gap-3 sm:grid-cols-2">
             {devFeatures.map((f, i) => (

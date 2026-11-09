@@ -26,7 +26,7 @@ npm run start
 
 ## Content source
 
-Feature list and phases come from the PaySecure SRS (`Documents/Meta`, mainly ch. 62 *Stripe Parity Catalog* and ch. 63 *Organizations, Businesses & Teams*) and the architecture docs in the main PaySecure repo.
+Feature list and phases come from the PaySecure SRS (`Documents/Meta`, mainly the product catalog and *Organizations, Businesses & Teams* chapters) and the architecture docs in the main PaySecure repo.
 
 ## Waitlist
 

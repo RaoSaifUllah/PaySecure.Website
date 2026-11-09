@@ -1,5 +1,5 @@
 // Feature content for the marketing site.
-// Source: PaySecure SRS (Documents/Meta, esp. ch. 62 Stripe Parity Catalog, 63 Organizations)
+// Source: PaySecure SRS (Documents/Meta)
 // and the Architecture docs. Everything here is pre-launch and shown as "coming soon".
 
 export const navLinks = [
@@ -230,8 +230,8 @@ export const faqs = [
     a: "PaySecure is being designed to PCI DSS 4.0.1 and State Bank of Pakistan requirements. Card data is tokenized in a dedicated vault and never touches your servers.",
   },
   {
-    q: "I already use Stripe elsewhere. Will PaySecure feel familiar?",
-    a: "Very. Our API follows the same conventions, objects and webhook patterns, so developers who know Stripe will be productive on day one.",
+    q: "How hard is it to integrate?",
+    a: "Not hard. Our API follows widely used conventions for objects, idempotency and webhooks, so most developers will be productive on day one. Payment Links need no code at all.",
   },
   {
     q: "Does it support Urdu?",
